@@ -1,0 +1,5 @@
+Operation: place_order, Latency: 462279.634000 microseconds, Timestamp: 1735144168
+Operation: get_orderbook, Latency: 976543.294000 microseconds, Timestamp: 1735144212
+Operation: get_current_positions, Latency: 448731.324000 microseconds, Timestamp: 1735144229
+Operation: get_open_orders, Latency: 514347.828000 microseconds, Timestamp: 1735144241
+Operation: cancel_order, Latency: 483545.036000 microseconds, Timestamp: 1735144267
